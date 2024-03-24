@@ -1,0 +1,5 @@
+
+Name and queue number of customers
+Name: a a, Queue: 1
+Name: d d, Queue: 1
+Burgers remaining in stock is: 35
